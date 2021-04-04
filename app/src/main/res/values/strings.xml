@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicDemoApp</string>
+    <string name="join_start_meeting">Join/Start Meeting</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="meeting_number">Meeting Number</string>
+    <string name="meeting_password">Meeting Password</string>
+    <string name="join">Join</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
